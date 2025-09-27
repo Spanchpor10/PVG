@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1012080949076",
+    "firebase_url": "https://passafe-2e414-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "passafe-2e414",
+    "storage_bucket": "passafe-2e414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012080949076:android:8953f151c8011943817ac1",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012080949076-hoardmpea8glfro5h9kjlu473u7492sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_PqxbW9Zl4EextTrJgThaB155Xuy5mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012080949076-hbj1kjti81ueqaa89io8moc93rtqu6oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012080949076:android:fc681dc223f6f2db817ac1",
+        "android_client_info": {
+          "package_name": "com.example.passafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012080949076-hoardmpea8glfro5h9kjlu473u7492sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_PqxbW9Zl4EextTrJgThaB155Xuy5mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012080949076-hbj1kjti81ueqaa89io8moc93rtqu6oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012080949076:android:f044709aba6f3074817ac1",
+        "android_client_info": {
+          "package_name": "com.example.pvgcoet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012080949076-hoardmpea8glfro5h9kjlu473u7492sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_PqxbW9Zl4EextTrJgThaB155Xuy5mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012080949076-hbj1kjti81ueqaa89io8moc93rtqu6oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

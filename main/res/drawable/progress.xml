@@ -1,0 +1,20 @@
+<!-- res/drawable/custom_progress.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background layer -->
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/progressBackground" />
+        </shape>
+    </item>
+
+    <!-- Clip layer (foreground) -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/progressColor" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>
